@@ -1,9 +1,9 @@
-import { StyleSheet } from 'react-native';
+import {StyleSheet} from 'react-native';
 
 const Fonts = StyleSheet.create({
   Name: {
-    fontFamily: 'xyz'
+    fontFamily: 'xyz',
   },
-  });
+});
 
-export default Fonts
+export default Fonts;
